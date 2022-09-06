@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dmitriy</h1>
 
 <h3 align="center">Frontend Developer</h3>
-  [![Dmitriy's GitHub stats](href="https://github-readme-stats.vercel.app/api?username=DmitriyKolyada&show_icons=true&count_private=true)] (https://github.com/DmitriyKolyada/)  
-<p align='center'>
- 
-   
-   <a href="https://github.com/DmitriyKolyada/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyKolyada&layout=compact"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://t.me/KDmitriy_88">
