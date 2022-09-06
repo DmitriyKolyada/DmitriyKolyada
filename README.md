@@ -13,9 +13,9 @@
   <a href="https://t.me/KDmitriy_88">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-</p>
-<p align="center">  
-  - 📫 How to reach me **Dmitriy.Kolyada.IT@gmail.com**
+  <a href="https://Dmitriy.Kolyada.IT@gmail.com">
+  <img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  </a>    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
