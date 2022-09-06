@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dmitriy</h1>
 <h3 align="center">Frontend Developer</h3>
+<a href="https://t.me/@KDmitriy_88">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
 
 - 📫 How to reach me **Dmitriy.Kolyada.IT@gmail.com**
 
