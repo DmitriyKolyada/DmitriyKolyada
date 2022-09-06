@@ -9,7 +9,6 @@
 </p>
 <p align="center">  
   - 📫 How to reach me **Dmitriy.Kolyada.IT@gmail.com**
-  <h3 align="left">Connect with me:</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
