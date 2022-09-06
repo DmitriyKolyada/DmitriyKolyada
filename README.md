@@ -3,11 +3,13 @@
 <h3 align="center">Frontend Developer</h3>
 
 <p align="center">
-<a href="https://t.me/KDmitriy_88">
+  <a href="https://t.me/KDmitriy_88">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+  </a>
+</p>
+<p align="center">  
   - 📫 How to reach me **Dmitriy.Kolyada.IT@gmail.com**
-<h3 align="left">Connect with me:</h3>
+  <h3 align="left">Connect with me:</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
